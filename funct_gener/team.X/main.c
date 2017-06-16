@@ -29,6 +29,10 @@
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * MJ      June 15 2017        v1.0.0      The team.X master project is committed and is pushed to https://github.com/
  *                                                  Team member will branch this project.
+ * MJ           June 08 2017        v1.1.1-F_GEN1    First version with all tasks except for the counter are implemented
+ *                                                       and free of bugs.
+ * * Sylvain      June 08 2017        v1.1.1-F_GEN2    First version with all timers implemented and free of bugs
+ *  * MJ           June 08 2017        v1.1.2-F_GEN1   Counter is implemented and free of bug  
  * * Sylvain      June 08 2017        v1.1.1-F_GEN2    First version with all timers implemented and free of bugs
  *
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,7 +58,8 @@ int main( void)
     initIO();
 	
     while(1){
-
+        // Tasks call
+        // Task counter
     }// end while(1))
 
 }// main
