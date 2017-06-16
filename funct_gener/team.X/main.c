@@ -34,6 +34,7 @@
  * * Sylvain      June 08 2017        v1.1.1-F_GEN2    First version with all timers implemented and free of bugs
  *  * MJ           June 08 2017        v1.1.2-F_GEN1   Counter is implemented and free of bug  
  * * Sylvain      June 08 2017        v1.1.1-F_GEN2    First version with all timers implemented and free of bugs
+ *  * Sylvain      June 08 2017        v1.1.2-F_GEN2    OC module implemented and free of bugs 
  *
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
@@ -46,6 +47,7 @@
 #include <stdio.h>
 
 // Timers implemented
+// OC implemented
 // Local global
 
 //global and broadcast
