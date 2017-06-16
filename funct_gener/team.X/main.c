@@ -29,6 +29,7 @@
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  * MJ      June 15 2017        v1.0.0      The team.X master project is committed and is pushed to https://github.com/
  *                                                  Team member will branch this project.
+ * * Sylvain      June 08 2017        v1.1.1-F_GEN2    First version with all timers implemented and free of bugs
  *
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
@@ -40,7 +41,7 @@
 
 #include <stdio.h>
 
-
+// Timers implemented
 // Local global
 
 //global and broadcast
