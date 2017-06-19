@@ -1,5 +1,6 @@
 /**  
- *  FileName:     main.c form team project including student_1 and  student_2.
+ *  FileName:     main.c form team project including student_1 and  student_2.    
+ *
  *	
  *	Name: Embedded application design,  Lab 6
  *
