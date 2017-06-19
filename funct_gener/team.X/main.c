@@ -33,7 +33,8 @@
  * MJ           June 08 2017        v1.1.1-F_GEN1    First version with all tasks except for the counter are implemented
  *
  * MJ           June 08 2017        v1.1.2-F_GEN3                                                        and free of bugs.
- * SH		June 19 2017	    v1.1.3-F_GEN3	adding square
+ * 
+ * SH		June 19 2017	    v1.1.3-F_GEN3	adding square wave
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
  
